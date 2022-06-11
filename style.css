@@ -1,0 +1,51 @@
+body{
+     background: #740004;
+    color:#F1E6E6;
+    
+    
+}
+
+.mybutton{
+    border:none;
+    display:inline-block;
+    padding:8px 16px;
+    vertical-align:middle;
+    overflow:hidden;
+    text-decoration:none;
+    color:#F1E6E6;
+    background-color:inherit;
+    text-align:center;
+    cursor:pointer;
+    white-space:nowrap
+}
+.mybutton:hover{
+    box-shadow:0 6px  20px 0 red;
+    
+}
+.mybutton1{
+    border:dashed rgb(90,0,0);
+    display:inline-block;
+    padding:8px 16px;
+    vertical-align:middle;
+    overflow:hidden;
+    text-decoration:none;
+    color:rgb(130,0,0);
+    background-color:inherit;
+    text-align:center;
+}
+.mybutton1:hover{
+    box-shadow:0 6px 20px 0 darkred;
+}
+.tag{
+    background-color:#000;
+    color:#fff;
+    display:inline-block;
+    padding-left:8px;
+    padding-right:8px;
+    text-align:center
+}
+
+p{
+    font-size:20px;
+    color:#F1E6E6
+}
